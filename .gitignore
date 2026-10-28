@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+models/
+reports/*.png
+reports/*.csv
+reports/*.json
+reports/*.txt
+!reports/.gitkeep
